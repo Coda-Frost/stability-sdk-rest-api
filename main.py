@@ -23,7 +23,7 @@ from typing import Optional
 #         )
 # app = FastAPI(dependencies=[Depends(api_key_auth)])
 
-dreamStudioAPIKey = "YOUR_API_KEY"
+dreamStudioAPIKey = "sk-9VeEkXm2cegClBxCvrop6tfwPzkuaajjGD3NkuVglqCrZFpI"
 
 app = FastAPI()
 
